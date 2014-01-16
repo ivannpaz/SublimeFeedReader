@@ -1,0 +1,14 @@
+[
+    {
+        "caption": "Tools",
+        "mnemonic": "n",
+        "id": "tools",
+        "children":
+        [
+            {
+                "command": "feed_news_reader",
+                "caption": "Read your Feed News"
+            }
+        ]
+    }
+]

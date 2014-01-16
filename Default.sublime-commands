@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "News Feed",
+        "command": "feed_news_reader"
+    }
+]
